@@ -1,0 +1,19 @@
+.grid-item {
+  padding: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  text-align: center;
+}
+
+.para {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.primary-button {
+    padding: 10px;
+    background-color: white;
+    font-size: 2vmin;
+    color: black;
+  }
